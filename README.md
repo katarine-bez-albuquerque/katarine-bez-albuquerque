@@ -6,12 +6,12 @@
 
 Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Formada em Análise e Desenvolvimento de Sistemas em 2015 e Pós-graduada em Desenvolvimento Java em 2017, na Universidade Estácio de Sá do Rio de Janeiro - RJ.
 
-### Meus Conhecimentos
+#### Conhecimentos
 
 * HTML 5, CSS 3 e Javascript;
 * Layout, Design e Responsividade;
 * Lógica de Programação;
-* Wordpress;
+* Wordpress (Criar do Zero, Temas, Temas Filhos, Modelos);
 * Elementor;
 * React (Componentes, Props, Hooks, React Router Dom, API);
 * Node JS;
@@ -23,45 +23,15 @@ Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Form
 * Banco de Dados Relacionais (SQL Server, MySQL, PHPMyAdmin) ;
 * Design Patterns.
 
-### Minhas Habilidades
+#### Utilidades
 
-<p float="left">
-    <img height="25" src="./imagens/html5.png" alt="HTML 5"/>
-    &nbsp;
-    <img height="25" src="./imagens/CSS3.png" alt="CSS 3"/>
-    &nbsp;
-    <img height="25" src="./imagens/js.png" alt="Javascript"/>
-    &nbsp;
-    <img height="25" src="./imagens/react.png" alt="React"/>
-    &nbsp;
-    <img height="25" src="./imagens/nodejs.png" alt="Node"/>
-    &nbsp;
-    <img height="25" src="./imagens/java.png" alt="Java"/>
-    &nbsp;
-    <img height="25" src="./imagens/php.png" alt="PHP"/>
-    &nbsp;
-    <img height="25" src="./imagens/wordpress.png" alt="Wordpress"/>
-    &nbsp;
-    <img height="25" src="./imagens/elementor.png" alt="Elementor"/>
-    &nbsp;
-    <img height="25" src="./imagens/mysql.png" alt="MySQL"/>
-</p>    
+* Postman.
 
-### Utilidades
+#### Ferramentas de Desenvolvimento
 
-<p float="left">
-    <img height="25" src="./imagens/postman.png" alt="Postman"/>
-    &nbsp;   
-</p>
-
-### Ferramentas de Desenvolvimento
-
-<p float="left">
-   <img height="25" src="./imagens/visual-studio-code.png" alt="Visual Studio Code"/>
-   &nbsp;
-   <img height="25" src="./imagens/eclipse.png" alt="Eclipse"/>
-   &nbsp;     
-</p>
+* Visual Studio Code;
+* Eclipse;
+* IntelliJ IDEA.
 
 ### Onde me encontrar
 
