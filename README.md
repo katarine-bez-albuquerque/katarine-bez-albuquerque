@@ -6,7 +6,7 @@
 
 Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Formada em Análise e Desenvolvimento de Sistemas em 2015 e Pós-graduada em Desenvolvimento Java em 2017, na Universidade Estácio de Sá do Rio de Janeiro - RJ.
 
-#### Conhecimentos
+#### &#10159; Conhecimentos
 
 * HTML 5, CSS 3 e Javascript;
 * Layout, Design e Responsividade;
@@ -23,11 +23,11 @@ Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Form
 * Banco de Dados Relacionais (SQL Server, MySQL, PHPMyAdmin) ;
 * Design Patterns.
 
-#### Utilidades
+#### &#10159; Utilidades
 
 * Postman.
 
-#### Ferramentas de Desenvolvimento
+#### &#10159; Ferramentas de Desenvolvimento
 
 * Visual Studio Code;
 * Eclipse;
