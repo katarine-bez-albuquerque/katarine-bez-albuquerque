@@ -11,7 +11,7 @@ Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Form
 * HTML 5, CSS 3 e Javascript;
 * Layout, Design e Responsividade;
 * Lógica de Programação;
-* Wordpress (Adicionar, Modificar e Criar);
+* Wordpress (Adicionar, Modificar e Criar Temas);
 * Elementor;
 * React (Componentes, Props, Hooks, React Router Dom, API);
 * Node JS;
