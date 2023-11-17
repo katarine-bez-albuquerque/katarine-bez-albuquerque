@@ -4,10 +4,26 @@
 
 ### Sobre mim
 
-Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Formada em Análise e Desenvolvimento de Sistemas em 2015 e Pós-graduada em Desenvolvimento Java em 2017, na Universidade Estácio de Sá do Rio de Janeiro - RJ. Estagiei como Auxiliar de Escritório na área administrativa do Hospital IASERJ no Rio de Janeiro - RJ. Trabalhei como Teleoperadora II na empresa Atento Brasil S.A. e como Auxiliar de Monitoramento na Empresa Sunset Vigilância e Segurança LTDA; ambas no Rio de Janeiro- RJ.  
+Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Formada em Análise e Desenvolvimento de Sistemas em 2015 e Pós-graduada em Desenvolvimento Java em 2017, na Universidade Estácio de Sá do Rio de Janeiro - RJ.
+
+### Meus Conhecimentos
+
+* HTML 5, CSS 3 e Javascript;
+* Layout, Design e Responsividade;
+* Lógica de Programação;
+* Wordpress;
+* Elementor;
+* React (Componentes, Props, Hooks, React Router Dom, API);
+* Node JS;
+* Orientação a Objetos;
+* Java 8, 11 ou mais;
+* JPA;
+* API Rest em Java;
+* Spring Boot;
+* Banco de Dados Relacionais (SQL Server, MySQL, PHPMyAdmin) ;
+* Design Patterns.
 
 ### Minhas Habilidades
-
 
 <p float="left">
     <img height="25" src="./imagens/html5.png" alt="HTML 5"/>
