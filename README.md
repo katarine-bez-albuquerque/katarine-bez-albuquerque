@@ -15,6 +15,7 @@ Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Form
 * Elementor;
 * React (Componentes, Props, Hooks, React Router Dom, API);
 * Node JS;
+* Git
 * Orientação a Objetos;
 * Java 8, 11 ou mais;
 * JPA;
