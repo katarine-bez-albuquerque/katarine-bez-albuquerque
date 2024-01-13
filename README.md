@@ -4,25 +4,16 @@
 
 ### Sobre mim
 
-Meu nome é Katarine, Desenvolvedora Front-end desde 2016, como Freelancer. Formada em Análise e Desenvolvimento de Sistemas em 2015 e Pós-graduada em Desenvolvimento Java em 2017, na Universidade Estácio de Sá do Rio de Janeiro - RJ.
+Desenvolvedora Front-end desde 2016, atuando como freelancer especializada em Bootstrap, WordPress, PHP, Javascript, jQuery, CSS3 e HTML5. Experiência destacada no desenvolvimento de interfaces intuitivas e responsivas, com habilidades sólidas em criação, manutenção e aprimoramento de sites. Comprometida com a entrega de soluções de alta qualidade que integram design e funcionalidade de forma eficaz.
 
-#### &#10159; Conhecimentos
+#### &#10159; Skills
 
-* HTML 5, CSS 3 e Javascript;
-* Layout, Design e Responsividade;
-* Lógica de Programação;
-* Wordpress (Adicionar, Modificar e Criar Temas);
-* Elementor;
-* React (Componentes, Props, Hooks, React Router Dom, API);
-* Node JS;
-* Git
-* Orientação a Objetos;
-* Java 8, 11 ou mais;
-* JPA;
-* API Rest em Java;
-* Spring Boot;
-* Banco de Dados Relacionais (SQL Server, MySQL, PHPMyAdmin) ;
-* Design Patterns.
+* Desenvolvimento de Interfaces;
+* Desenvolvimento de Sites;
+* Desenvolvimento e Manutenção;
+* Sesenvolvimento de Aplicações;
+* SQL.
+
 
 #### &#10159; Utilidades
 
