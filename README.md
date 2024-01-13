@@ -11,7 +11,7 @@ Desenvolvedora Front-end desde 2016, atuando como freelancer especializada em Bo
 * Desenvolvimento de Interfaces;
 * Desenvolvimento de Sites;
 * Desenvolvimento e Manutenção;
-* Sesenvolvimento de Aplicações;
+* Desenvolvimento de Aplicações;
 * SQL.
 
 
