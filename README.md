@@ -4,9 +4,9 @@
 
 ### Sobre mim
 
-Desenvolvedora Front-end desde 2016, atuando como freelancer especializada em Bootstrap, WordPress, PHP, Javascript, jQuery, CSS3 e HTML5. Experiência destacada no desenvolvimento de interfaces intuitivas e responsivas, com habilidades sólidas em criação, manutenção e aprimoramento de sites. Comprometida com a entrega de soluções de alta qualidade que integram design e funcionalidade de forma eficaz.
+Formada em Análise e Desenvolvimento de Sistemas, em 2015 e Pós-graduada em Desenvolvimento Java, em 2017, ambas pela Universidade Estácio de Sá, Rio de Janeiro - RJ. Trabalhei em diversos setores, incluindo atendimento, Teleoperador, auxiliar de escritório, auxiliar de monitoramento e atualmente como Desenvolvedora Front-end. Possuo conhecimentos e habilidades com TypeScript, JavaScript, React, Angular, WordPress, PHP, Java, HTML5, CSS e Banco de Dados Relacionais.
 
-#### &#10159; Skills
+#### &#10159; Habilidades
 
 * Desenvolvimento de Interfaces;
 * Desenvolvimento de Sites;
@@ -23,6 +23,7 @@ Desenvolvedora Front-end desde 2016, atuando como freelancer especializada em Bo
 
 * Visual Studio Code;
 * Eclipse;
+* Netbeans;
 * IntelliJ IDEA.
 
 ### Onde me encontrar
