@@ -1,39 +1,15 @@
-![](https://komarev.com/ghpvc/?username=katarine-b-albuquerque&color=006bed)
-
-<img width="100%" height="125px" src="./imagens/banner2.png" alt="Banner"/>
-
 ### Sobre mim
 
-Formada em Análise e Desenvolvimento de Sistemas, em 2015 e Pós-graduada em Desenvolvimento Java, em 2017, ambas pela Universidade Estácio de Sá, Rio de Janeiro - RJ. Trabalhei em diversos setores, incluindo atendimento, Teleoperador, auxiliar de escritório, auxiliar de monitoramento e atualmente como Desenvolvedora Front-end. Possuo conhecimentos e habilidades com TypeScript, JavaScript, React, Angular, WordPress, PHP, Java, HTML5, CSS e Banco de Dados Relacionais.
+Sou formada em Análise e Desenvolvimento de Sistemas e Pós-graduada em Desenvolvimento Java, ambas pela Universidade Estácio de Sá.
+
+Minha trajetória abrange diversos setores, sendo eles: Atendimento, Teleoperador, Auxiliar de Escritório, Auxiliar de Monitoramento e atualmente Desenvolvedora Front-end.
+
+Possuo uma variedade de habilidades que contribuem para o meu desenvolvimento pessoal e profissional.
 
 #### &#10159; Habilidades
 
-* Desenvolvimento de Interfaces;
-* Desenvolvimento de Sites;
-* Desenvolvimento e Manutenção;
-* Desenvolvimento de Aplicações;
-* SQL.
+![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![React](https://img.shields.io/badge/TypeScript-F7DF1E?style=for-the-badge&logo=react&logoColor=black)  ![Angular](https://img.shields.io/badge/Angular-F7DF1E?style=for-the-badge&logo=angular&logoColor=black)  ![WorsPress](https://img.shields.io/badge/WorsPress-F7DF1E?style=for-the-badge&logo=wordpress&logoColor=black)  ![PHP](https://img.shields.io/badge/PHP-F7DF1E?style=for-the-badge&logo=php&logoColor=black)  ![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=black)  ![HTML5](https://img.shields.io/badge/HTML5-F7DF1E?style=for-the-badge&logo=html5&logoColor=black)  ![CSS3](https://img.shields.io/badge/CSS3-F7DF1E?style=for-the-badge&logo=css3&logoColor=black)  ![MySQL](https://img.shields.io/badge/MySQL-F7DF1E?style=for-the-badge&logo=mysql&logoColor=black)
 
+#### &#10159; Onde me encontrar
 
-#### &#10159; Utilidades
-
-* Postman.
-
-#### &#10159; Ferramentas de Desenvolvimento
-
-* Visual Studio Code;
-* Eclipse;
-* Netbeans;
-* IntelliJ IDEA.
-
-### Onde me encontrar
-
-<p float="left">
-    <a href="https://www.linkedin.com/in/katarine-albuquerque/" target="_blank">
-        <img width="145" src="./imagens/linkedin_cor.png" alt="Linkedin"/>
-    </a>
-    &nbsp;
-    <a href="mailto:kba.2879@gmail.com">
-        <img width="145" src="./imagens/email.png" alt="E-mail"/>
-    </a>
-</p>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-2A00FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=whithe)](https://www.linkedin.com/in/katarine-albuquerque/)  [![GMAIL](https://img.shields.io/badge/-Gmail-E34C26?style=for-the-badge&logo=gmail&logoColor=white&labelColor=whithe)](mailto:kba.2879@gmail.com)  [![GITHUB](https://img.shields.io/badge/GitHub-41B883?style=for-the-badge&logo=github&logoColor=white&labelColor=whithe)](https://github.com/katarine-bez-albuquerque)
