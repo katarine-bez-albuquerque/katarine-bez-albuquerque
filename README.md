@@ -1,10 +1,6 @@
 ### Sobre mim
 
-Sou formada em Análise e Desenvolvimento de Sistemas e Pós-graduada em Desenvolvimento Java, ambas pela Universidade Estácio de Sá.
-
-Minha trajetória abrange diversos setores, sendo eles: Atendimento, Teleoperador, Auxiliar de Escritório, Auxiliar de Monitoramento e atualmente Desenvolvedora Front-end.
-
-Possuo uma variedade de habilidades que contribuem para o meu desenvolvimento pessoal e profissional.
+Possuo experiência diversificada, incluindo estágio como Auxiliar de Escritório, onde adquiri habilidades administrativas e de organização. Atuei no atendimento ao cliente, desenvolvendo forte capacidade de comunicação e resolução de problemas. Trabalhei como Teleoperador, aprimorando competências em suporte remoto. Também fui Auxiliar de Monitoramento, garantindo segurança e controle de operações. Recentemente, atuei como Desenvolvedora Front-end, focando em design e implementação de interfaces web.
 
 #### &#10159; Habilidades
 
